@@ -2,6 +2,8 @@
 
 This is 4<sup>th</sup> project of Udacity Frontend Nanodegree.
 
+The live version can be seen here https://rituraj567.github.io/feed-reader/.
+
 Reference
 ==========
 
